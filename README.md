@@ -18,7 +18,7 @@ jedis = new Jedis("192.168.99.100", 6379);
 jedis.ping()
 ````
 
-Some Test Cases.
+# Some Test Cases.
 ````java
  @Test
     public void testString(){
